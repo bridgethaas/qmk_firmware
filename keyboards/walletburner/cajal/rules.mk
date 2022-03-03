@@ -17,3 +17,4 @@ BACKLIGHT_ENABLE = no   # Enable keyboard backlight functionality
 AUDIO_ENABLE = no
 RGBLIGHT_ENABLE = yes
 ENCODER_ENABLE = yes    # Enable support for EC11 Rotary Encoder
+COMBO_ENABLE = yes

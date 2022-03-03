@@ -43,6 +43,11 @@
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5
 
+/* Combo-related parameters */
+#define COMBO_COUNT 2
+#define COMBO_TERM 40
+#define COMBO_ONLY_FROM_LAYER 0
+
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
 
